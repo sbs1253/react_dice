@@ -1,5 +1,5 @@
 {
-  "name": "dicegame",
+  "name": "rock-scissor-paper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
